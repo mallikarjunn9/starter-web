@@ -20,3 +20,5 @@ This is for deploying web application called http
 
 This is git.training
 
+adding file to automatci merges and do changes
+
