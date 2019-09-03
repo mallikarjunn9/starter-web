@@ -16,5 +16,7 @@ This is for deploying web application called http
 
 ##How to Contribute
 
+##Copyright 2019
 
+This is git.training
 
