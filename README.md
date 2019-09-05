@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is about sample project for practising/learning git vcs
+Adding lines to rebase example
 
 ## Introduction
 
