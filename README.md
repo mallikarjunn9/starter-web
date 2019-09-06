@@ -23,3 +23,4 @@ This is git.training
 
 adding file to automatci merges and do changes
 
+Copyright 210-2020
