@@ -5,6 +5,8 @@ Adding lines to rebase example, more changes to readme file for rebasing example
 
 ## Introduction
 
+this is updating for git stash example
+
 This is about Introduction of Git class and addressing various git commands
 
 ##Purpose
